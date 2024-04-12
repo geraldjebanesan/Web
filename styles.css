@@ -1,0 +1,96 @@
+.header
+{
+    color: white;
+    border: 2px solid #fff;
+    border-color: cornflowerblue;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-bottom: 30px;
+    background-color: darkblue;
+}
+
+
+.intro
+{
+    color: white;
+    font-size: medium;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 7px;
+}
+
+.detail
+{
+    padding-top: 30px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.btn.btn-outline-primary
+{
+    margin: 60px;
+    col
+}
+
+.button:hover
+{
+    background-color: lightgreen;
+    color: #000 !important;
+}
+
+.button-block
+{
+    margin-left: 100px;
+    margin-top: 40px;
+    text-align: justify;
+}
+
+.about
+{
+    text-align: center;
+    margin-left: 12px;
+    margin-top: 25px;
+    margin-right: 12px;
+    font-size: large;
+}
+
+
+.hobby
+{
+    text-align: center;
+    margin-left: 12px;
+    margin-top: 25px;
+    margin-right: 12px;
+    font-size: large;
+}
+
+
+.career
+{
+    text-align: center;
+    margin-left: 12px;
+    margin-top: 25px;
+    margin-right: 12px;
+    font-size: large;
+}
+
+
+
+a
+{
+    text-decoration: none;
+}
+
+body
+{
+    background-color: #fff;
+}
+
+#blinking-header
+{
+    color: white
+}
+
